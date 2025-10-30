@@ -30,7 +30,7 @@ Decryption Steps:
 1. Read each color code’s hexadecimal value.
 2. Convert back to ASCII after subtracting the key.
 3. Recover the original text.
-4. 
+ 
 
 🖼 Sample Example
 
